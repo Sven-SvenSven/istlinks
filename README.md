@@ -5,3 +5,4 @@ links
 [spotify](https://www.spotify\.com)
 [duckduckgo](https://www.duckduckgo\.com)
 [mozilla](https://www.mozilla\.org)
+[coolmath-games](https://coolmathgames\.com)
