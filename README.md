@@ -8,4 +8,4 @@ links
 [coolmath-games](https://coolmathgames\.com)
 [Minecraft](https://www.minecraft\.net)
 [miniclip](https://www.miniclip\.com)
-[Krunker](https://iogames.pro)
+[Krunker](https://www.addictinggames\.com)
