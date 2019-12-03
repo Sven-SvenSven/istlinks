@@ -6,3 +6,4 @@ links
 [duckduckgo](https://www.duckduckgo\.com)
 [mozilla](https://www.mozilla\.org)
 [coolmath-games](https://coolmathgames\.com)
+[Minecraft](https://minecraft\.net)
