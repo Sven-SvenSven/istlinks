@@ -9,3 +9,4 @@ links
 [Minecraft](https://www.minecraft\.net)
 [miniclip](https://www.miniclip\.com)
 [Krunker](https://www.addictinggames\.com)
+[Surviv](https://www.surviv2\.io)
